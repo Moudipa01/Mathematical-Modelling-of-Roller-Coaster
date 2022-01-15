@@ -11,3 +11,6 @@ stretching around the city. So for our modelling we assume that we build a rolle
 multiple roller coaster / amusement parks across the city.Though Roller coaster are of several types and has several features, we assume that our roller coaster is a traditional “sit-down” roller coaster. 
 
 ## The Model Curve 
+![image](https://user-images.githubusercontent.com/74910213/149633001-bfb03db6-32bb-4ad6-9813-8c81e99e1bc4.png)
+
+### Average slope of the curve = H/R { where H , R are considered with sign }
